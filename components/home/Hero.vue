@@ -48,7 +48,7 @@
     </div>
     <img
       class="absolute -top-64 z-10 brightness-50"
-      src="/lanterne Reiki.png"
+      src="/lanterne-Reiki.png"
       alt="" />
   </header>
 </template>

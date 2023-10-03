@@ -8,12 +8,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@vueuse/nuxt',
     '@vee-validate/nuxt',
-    '@nuxtjs/google-fonts',
-    // '@nuxtjs/supabase',
   ],
-  googleFonts: {
-    Karla: true
-  },
   app: {
     head: {
       link: [
