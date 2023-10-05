@@ -17,7 +17,7 @@
     <NuxtLink to="/" class="flex flex-col justify-center items-center w-1/3">
       <div class="flex items-start">
         <span style="font-family: 'Karla';" :class="{'text-3xl': y == 0}" class="duration-500 ease-in-out text-center">Espace Yama</span>
-        <img src="/logo.png" :class="{'!w-20': y == 0}" class="mx-5 w-12 duration-500 ease-in-out" alt="" />
+        <img src="/Logo.png" :class="{'!w-20': y == 0}" class="mx-5 w-12 duration-500 ease-in-out" alt="" />
           <span style="font-family: 'Karla';" :class="{'text-xl': y == 0}" class="duration-500 ease-in-out self-end text-start">Praticienne Reiki</span>
       </div>
       
