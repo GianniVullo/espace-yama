@@ -87,6 +87,7 @@ module.exports = {
       slate: colors.slate,
       gray: colors.gray,
       black: colors.black,
+      red: colors.red
     },
   },
   darkMode: ['class'],

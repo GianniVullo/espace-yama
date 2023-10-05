@@ -59,4 +59,10 @@ useSchemaOrg([
     font-family: 'KarlaBold';
     src: url('/fonts/Karla-Bold.woff2') format('woff2');
 }
+p, li {
+    font-family: 'Karla';
+}
+  html {
+    scroll-behavior: smooth;
+  }
 </style>

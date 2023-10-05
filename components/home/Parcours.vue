@@ -1,6 +1,7 @@
 <template>
-    <section class="flex">
-        <div>
+    <section id="parcours" class="flex scroll-m-20">
+        <img class="w-80 rounded-r-md" src="/Esmeralda-Yama.png" alt="">
+        <div class="ml-12">
             <h3 class="mb-5 text-xl">Mon Parcours</h3>
             <p class="mb-4">Je suis practicienne et enseignante Reiki Usui.</p>
             <p class="mb-4">
@@ -28,7 +29,6 @@
                 C’est pour ces raisons que j’ai créé l’espace bien-être YAMA
             </p>
         </div>
-        <img class="w-80 rounded-l-md" src="/Esmeralda-Yama.png" alt="">
     </section>
 </template>
 

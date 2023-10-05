@@ -1,9 +1,11 @@
 <template>
+  <ContactWidget />
   <!-- HERO SECTION -->
-    <HomeHero />
+    <HomeHero3 />
   <!-- DESCRIPTION SECTION -->
   <main class="py-10 px-52">
     <HomeServices class="z-50" />
+  
     <!-- OBJECTIF SECTION -->
     <HomeObjectifs class="mt-12" />
 
@@ -21,13 +23,12 @@
     <HomeShantala class="mt-12" />
 
     <!-- REIKI DESCRIPTION -->
-    <section>REIKI DESCRIPTION</section>
+    <HomeRieki class="mt-12" />
 
     <!-- FORM CONTACT -->
-    <section>FORM CONTACT</section>
-
+    <HomeMailComponent class="mt-12" />
     <!-- GOOGLE MAP -->
-    <section>GOOGLE MAP</section>
+    <HomeMapsComponent class="mt-12" />
   </main>
 </template>
 

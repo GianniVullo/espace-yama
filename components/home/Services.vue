@@ -1,5 +1,5 @@
 <template>
-  <section class="flex">
+  <section id="services" class="flex">
     <div>
       <div class="mb-12">
         <h3 class="mb-5 text-xl">

@@ -1,10 +1,10 @@
 <template>
-  <section class="flex">
+  <section id="objectifs" class="flex">
     <div class="mb-12">
       <h3 class="mb-5 text-xl">Objectifs de l’initiation aux enfants</h3>
       <p class="pr-5 mb-5">
         Au travers de cette initiation au Reiki, je propose aux enfants des
-        outils pour se connecter à eux-même et ressentir leur force intérieure.
+        outils pour <span style="font-family: 'KarlaBold';">se connecter à eux-même</span> et ressentir leur <span style="font-family: 'KarlaBold';">force intérieure</span>.
         En utilisant ces outils, les enfants pourront en tirer différents
         bienfaits tels que :
       </p>

@@ -1,7 +1,7 @@
 <template>
-  <header class="pointer-events-none relative h-[90vh] w-full overflow-hidden">
+  <header class="pointer-events-none relative h-[90vh] w-full overflow-hidden flex text-black">
     <div
-      class="absolute z-20 flex h-full w-full flex-col text-white sm:items-center sm:justify-center sm:text-center">
+      class="z-20 flex h-full w-full flex-col sm:items-center sm:justify-center sm:text-center">
       <h1 class="text-4xl" style="font-family: 'Karla'">
         Bienvenue à mon cabinet de Reiki
       </h1>
@@ -11,10 +11,12 @@
       <p>Pour vous et votre enfant,</p>
       <UiMyButton class="mt-5"> Découvrez mes services </UiMyButton>
     </div>
-    <img
-      class="absolute -top-64 z-10 brightness-50"
-      src="/lanterne-Reiki.png"
-      alt="" />
+    <div class="w-[50vw] flex justify-start items-center">
+      <img
+        class="h-72 w-72"
+        src="/logo.png"
+        alt="" />
+    </div>
   </header>
 </template>
 

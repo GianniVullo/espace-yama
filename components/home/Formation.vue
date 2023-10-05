@@ -1,6 +1,5 @@
 <template>
-  <section class="flex">
-    <img class="w-80 rounded-r-md mr-12" src="/soin-main.png" alt="" />
+  <section id="formations" class="flex justify-between">
     <div>
       <h3 class="mb-5 text-xl">Mes Formations</h3>
       <p class="mb-4">Diplôme de puéricultrice</p>
@@ -15,6 +14,7 @@
       <p class="mb-4">Formation massage bébé "Shantala" - Isabelle Virzi</p>
       <p class="mb-4">Initiation au pendule - Gigliola GALASSO</p>
     </div>
+    <img class="w-80 rounded-l-md" src="/soin-main.png" alt="" />
   </section>
 </template>
 

@@ -7,7 +7,6 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@vueuse/nuxt',
-    '@vee-validate/nuxt',
   ],
   app: {
     head: {
