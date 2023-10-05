@@ -1,5 +1,5 @@
 <template>
-    <section id="tarifs">
+    <section id="tarifs" class="scroll-m-20">
         <h3 class="mb-5 text-xl">Les Consultations</h3>
         <ul class="list-disc mb-5 ml-5">
             <li class="mb-5 text-xl">Séance adulte ( max. 1h30 ) - <span style="font-family: 'KarlaBold';">80</span><span class="text-xs">€</span></li>

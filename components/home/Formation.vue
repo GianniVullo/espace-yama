@@ -1,5 +1,5 @@
 <template>
-  <section id="formations" class="flex justify-between">
+  <section id="formations" class="flex justify-between scroll-m-20">
     <div>
       <h3 class="mb-5 text-xl">Mes Formations</h3>
       <p class="mb-4">Diplôme de puéricultrice</p>

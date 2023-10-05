@@ -1,5 +1,5 @@
 <template>
-  <section id="shantala">
+  <section id="shantala" class="scroll-m-20">
     <div>
       <h3 class="mb-5 text-xl">Le Massage Shantala</h3>
       <p class="mb-4">

@@ -1,5 +1,5 @@
 <template>
-  <section id="objectifs" class="flex">
+  <section id="objectifs" class="flex scroll-m-20">
     <div class="mb-12">
       <h3 class="mb-5 text-xl">Objectifs de l’initiation aux enfants</h3>
       <p class="pr-5 mb-5">
