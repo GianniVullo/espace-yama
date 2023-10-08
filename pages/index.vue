@@ -3,7 +3,7 @@
   <!-- HERO SECTION -->
     <HomeHero3 />
   <!-- DESCRIPTION SECTION -->
-  <main class="py-10 px-52">
+  <main class="py-10 px-5 sm:px:8 md:px-14 lg:px-40 xl:px-52">
     <HomeServices class="z-50" />
   
     <!-- OBJECTIF SECTION -->

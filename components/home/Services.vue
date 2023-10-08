@@ -1,5 +1,5 @@
 <template>
-  <section id="services" class="flex scroll-m-20">
+  <section id="services" class="flex scroll-m-20 flex-col md:flex-row">
     <div>
       <div class="mb-12">
         <h3 class="mb-5 text-xl">
@@ -28,7 +28,10 @@
         </p>
       </div>
     </div>
-    <img src="/enfant-mains.png" alt="" class="w-80 rounded-l-md" />
+    <img
+      src="/enfant-mains.png"
+      alt=""
+      class="w-80 rounded-md md:rounded-r-none" />
   </section>
 </template>
 

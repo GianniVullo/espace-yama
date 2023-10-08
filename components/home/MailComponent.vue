@@ -1,14 +1,42 @@
 <template>
-    <div>
-        <h3 class="mb-5 text-xl">Me contacter</h3>
-        <p>Vous pourrez me contacter par mail à espaceyama@gmail.com</p>
-        <p class="pt-4 pb-1">Le bouton ci-dessous ouvrira automatiquement votre boite mail avec mon adresse déjà insérée !</p>
-        <button class="bg-red-500 py-1 px-3 rounded text-white">Envoyer un courrier électronique à Espace Yama</button>
-    </div>
+  <div>
+    <h3 class="mb-5 text-xl">Me contacter</h3>
+    <p>Vous pourrez me contacter par mail à</p>
+    <button class="rounded bg-red-500 px-3 py-1 text-white">
+      espaceyama@gmail.com
+    </button>
+    <p>ou avec le formulaire ci-après</p>
+    <form action="" class="flex flex-col p-1">
+      <label for="from" class="mt-5 flex flex-col">
+        Votre email
+        <input
+          type="email"
+          name="email"
+          id="from"
+          v-model="from"
+          class="rounded-lg border-b border-l border-primary-700 p-2 shadow-inner invalid:border-error-500 focus:border-2 focus:border-accent-600 focus:outline-none"
+          placeholder="adresse e-mail" />
+      </label>
+      <label for="body" class="mt-4 flex flex-col">
+        Votre message
+        <textarea
+          name="body"
+          id="body"
+          rows="10"
+          class="w-[100%] rounded-lg border-b border-l border-primary-700 p-2 text-xl leading-relaxed shadow-inner invalid:border-error-500 focus:border-2 focus:border-accent-600 focus:outline-none sm:w-auto"
+          v-model="body"
+          placeholder="Bonjour, je suis John Doe et je..."></textarea>
+      </label>
+      <button>
+        
+      </button>
+    </form>
+  </div>
 </template>
 
 <script setup>
-
+const from = ref("")
+const body = ref("")
 </script>
 
 <style scoped>

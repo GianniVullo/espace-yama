@@ -14,7 +14,7 @@
         >
       </li>
     </ul>
-    <NuxtLink to="/" class="flex flex-col justify-center items-center w-1/3">
+    <NuxtLink to="/" class="flex flex-col justify-center items-center md:w-1/3">
       <div class="flex items-start">
         <span style="font-family: 'Karla';" :class="{'text-3xl': y == 0}" class="duration-500 ease-in-out text-center">Espace Yama</span>
         <img src="/Logo.png" :class="{'!w-20': y == 0}" class="mx-5 w-12 duration-500 ease-in-out" alt="" />
@@ -22,7 +22,7 @@
       </div>
       
     </NuxtLink>
-    <ul class="hidden items-center md:flex md:justify-end w-1/3">
+    <ul class="hidden items-center md:flex md:justify-end md:w-1/3">
       <li class="mr-5 last:mr-0" v-for="(link, idx) in rightMenu" :key="idx">
         <NuxtLink
           :class="{

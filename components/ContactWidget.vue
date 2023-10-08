@@ -1,6 +1,6 @@
 <template>
-    <aside class="fixed left-0 top-[40vh] z-[9999] flex-col flex justify-end items-start drop-shadow-xl" style="background-color: transparent;">
-        <button class="bg-secondary-400 px-1 py-3 rounded-r-xl w-8 group hover:w-24 duration-300 flex">
+    <aside class="fixed w-full md:w-auto bottom-0 top-auto md:bottom-auto md:left-0 md:top-[40vh] z-[9999] md:flex-col flex md:justify-end md:items-start drop-shadow-xl" style="background-color: transparent;">
+        <button class="bg-secondary-400 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -11,9 +11,9 @@
               d="M1.5 4.5a3 3 0 013-3h1.372c.86 0 1.61.586 1.819 1.42l1.105 4.423a1.875 1.875 0 01-.694 1.955l-1.293.97c-.135.101-.164.249-.126.352a11.285 11.285 0 006.697 6.697c.103.038.25.009.352-.126l.97-1.293a1.875 1.875 0 011.955-.694l4.423 1.105c.834.209 1.42.959 1.42 1.82V19.5a3 3 0 01-3 3h-2.25C8.552 22.5 1.5 15.448 1.5 6.75V4.5z"
               clip-rule="evenodd" />
           </svg>
-          <p class="hidden group-hover:block">Appeler</p>
+          <p class="md:hidden md:group-hover:block ml-2 md:ml-0">Appeler</p>
         </button>
-        <button class="bg-primary-400 px-1 py-3 rounded-r-xl w-8 group hover:w-24 duration-300 flex">
+        <button class="bg-primary-400 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
               class=" h-6"
               viewBox="0 0 67 90"
@@ -29,7 +29,7 @@
                 d="M33.5 34C38.7308 34 42 30.7308 42 25.5C42 20.2692 38.7308 17 33.5 17C28.2692 17 25 21.5769 25 25.5C25 29.4231 28.2692 34 33.5 34Z"
                 class="fill-primary-500" />
             </svg>
-          <p class="hidden group-hover:block ml-1">Adresse</p>
+          <p class="md:hidden md:group-hover:block ml-3 md:ml-1">Adresse</p>
         </button>
     </aside>
 </template>
