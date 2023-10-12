@@ -1,5 +1,5 @@
 <template>
-  <section id="objectifs" class="flex scroll-m-20">
+  <section id="objectifs" class="flex scroll-m-20 items-center md:items-start">
     <div class="mb-12">
       <h3 class="mb-5 text-xl">Objectifs de l’initiation aux enfants</h3>
       <p class="mb-5 pr-5">
@@ -11,7 +11,7 @@
         utilisant ces outils, les enfants pourront en tirer différents bienfaits
         tels que :
       </p>
-      <div class="flex flex-col md:flex-row">
+      <div class="flex flex-col md:flex-row items-center md:items-start">
         <img src="/enfant-allongé.png" alt="" class="w-96 rounded-md md:rounded-l-none" />
         <div class="ml-3 flex flex-col justify-between">
           <ul class="ml-5 list-disc my-3 md:my-0">

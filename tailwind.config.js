@@ -87,7 +87,20 @@ module.exports = {
       slate: colors.slate,
       gray: colors.gray,
       black: colors.black,
-      red: colors.red
+      red: {
+        '50': '#FCF7F0', 
+        '100': '#FAF0E3', 
+        '200': '#F2D5BB', 
+        '300': '#EBBB96', 
+        '400': '#DE7A50', 
+        '500': '#CF3612', 
+        '600': '#BA2B0F', 
+        '700': '#9C230B', 
+        '800': '#7D1806', 
+        '900': '#5C0F04', 
+        '950': '#3B0802'
+    },
+      transparent: colors.transparent
     },
   },
   darkMode: ['class'],

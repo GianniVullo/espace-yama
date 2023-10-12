@@ -19,15 +19,12 @@ useSchemaOrg([
             postalCode: '4020',
             addressCountry: 'Be',
         },
-        logo: '/logo.png',
-        
-        
+        logo: '/Logo.png',
         geo: {
             "@type": "GeoCoordinates",
             latitude: 50.6376977,
             longitude: 5.5965322
-        },  
-        
+        },     
         openingHoursSpecification: [
             //! à changer absolumunent, ceci est à titre d'exemple
             {
@@ -54,6 +51,10 @@ useSchemaOrg([
 @font-face {
     font-family: 'Karla';
     src: url('/fonts/Karla-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Brush';
+    src: url('/fonts/aAnomanObong.woff2') format('woff2');
 }
 @font-face {
     font-family: 'KarlaBold';

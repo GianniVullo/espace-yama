@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="flex w-full flex-col justify-around bg-gray-800 p-6 text-white md:flex-row">
+    class="flex w-full flex-col justify-around bg-gradient-to-b from-gray-950 to-gray-800 p-6 text-white md:flex-row">
     <section class="flex flex-col items-center justify-between">
       <svg
         xmlns="http://www.w3.org/2000/svg"

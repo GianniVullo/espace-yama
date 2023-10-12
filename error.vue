@@ -1,5 +1,5 @@
 <template>
-    <div id="theme-root" :data-theme="toggleTheme" :class="{ dark: toggleTheme === 'dark' }"
+    <div id="theme-root"
         class="h-[100vh] flex flex-col justify-start items-center bg-bleu-50 dark:bg-bleu-900 text-center">
         <Navbar class="mb-52"/>
         <h1 class="text-3xl text-neutral-800">{{ error.statusCode }}</h1>

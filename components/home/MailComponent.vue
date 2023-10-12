@@ -1,11 +1,13 @@
 <template>
   <div>
     <h3 class="mb-5 text-xl">Me contacter</h3>
-    <p>Vous pourrez me contacter par mail à</p>
-    <button class="rounded bg-red-500 px-3 py-1 text-white">
-      espaceyama@gmail.com
-    </button>
-    <p>ou avec le formulaire ci-après</p>
+    <div class="flex items-center">
+      <p>Vous pourrez me contacter par mail à</p>
+      <button class="rounded bg-red-500 px-3 py-1 ml-1 text-white">
+        espaceyama@gmail.com
+      </button>
+    </div>
+    <!-- <p>ou avec le formulaire ci-après</p>
     <form action="" class="flex flex-col p-1">
       <label for="from" class="mt-5 flex flex-col">
         Votre email
@@ -30,7 +32,7 @@
       <button>
         
       </button>
-    </form>
+    </form> -->
   </div>
 </template>
 

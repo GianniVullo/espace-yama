@@ -13,7 +13,7 @@
           </svg>
           <p class="md:hidden md:group-hover:block ml-2 md:ml-0">Appeler</p>
         </button>
-        <button class="bg-primary-400 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
+        <button class="bg-red-200 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
               class=" h-6"
               viewBox="0 0 67 90"

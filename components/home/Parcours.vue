@@ -1,5 +1,5 @@
 <template>
-  <section id="parcours" class="flex scroll-m-20 flex-col md:flex-row">
+  <section id="parcours" class="flex scroll-m-20 flex-col md:flex-row items-center md:items-start">
     <img class="w-80 rounded-md md:rounded-l-none order-2 md:order-1" src="/Esmeralda-Yama.png" alt="" />
     <div class="md:ml-12 order-1 md:order-2">
       <h3 class="mb-5 text-xl">Mon Parcours</h3>

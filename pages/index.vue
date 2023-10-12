@@ -1,29 +1,36 @@
 <template>
   <ContactWidget />
   <!-- HERO SECTION -->
-    <HomeHero3 />
+  <HomeHero3 />
   <!-- DESCRIPTION SECTION -->
-  <main class="py-10 px-5 sm:px:8 md:px-14 lg:px-40 xl:px-52">
+  <main
+    class="flex flex-col sm:px:8 bg-gradient-to-tr from-primary-50 from-30% to-primary-400 px-5 py-10 md:px-14 lg:px-40 xl:px-52">
     <HomeServices class="z-50" />
-  
+    <HomeSeparator />
+
     <!-- OBJECTIF SECTION -->
-    <HomeObjectifs class="mt-12" />
+    <HomeObjectifs />
+    <HomeSeparator />
 
     <!-- PARCOURS SECTION -->
-    <HomeParcours class="mt-12" />
-    
-    <!-- FORMATIONS SECTION -->
-    <HomeFormation class="mt-12" />
+    <HomeParcours />
+    <HomeSeparator />
 
+    <!-- FORMATIONS SECTION -->
+    <HomeFormation />
+    <HomeSeparator />
 
     <!-- TARIFS SECTION -->
-    <HomeConsultations class="mt-12" />
+    <HomeConsultations />
+    <HomeSeparator />
 
     <!-- SHANTALA DESCRIPTION -->
-    <HomeShantala class="mt-12" />
+    <HomeShantala />
+    <HomeSeparator />
 
     <!-- REIKI DESCRIPTION -->
-    <HomeRieki class="mt-12" />
+    <HomeRieki />
+    <HomeSeparator />
 
     <!-- FORM CONTACT -->
     <HomeMailComponent class="mt-12" />

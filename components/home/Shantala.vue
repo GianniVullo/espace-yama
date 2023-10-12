@@ -19,7 +19,7 @@
         commence, in utero, à partir de la 8ème semaine de grossesse
       </p>
     </div>
-    <div class="flex flex-col md:flex-row">
+    <div class="flex flex-col md:flex-row items-center md:items-start">
       <img
         class=" mr-0 mb-4 md:mb-0 md:mr-5 w-80 rounded-md md:rounded-l-none"
         src="/massage-shantala.png"
