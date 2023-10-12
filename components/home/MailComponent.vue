@@ -1,9 +1,9 @@
 <template>
   <div>
     <h3 class="mb-5 text-xl">Me contacter</h3>
-    <div class="flex items-center">
+    <div class="flex flex-col md:flex-row items-center">
       <p>Vous pourrez me contacter par mail à</p>
-      <button class="rounded bg-red-500 px-3 py-1 ml-1 text-white">
+      <button class="rounded bg-red-500 px-3 py-1 mt-1 md:mt-0 md:ml-1 text-white">
         espaceyama@gmail.com
       </button>
     </div>
