@@ -1,5 +1,5 @@
 <template>
-  <section id="services" class="flex scroll-m-20 flex-col md:flex-row items-center md:items-start">
+  <section id="services" class="flex scroll-m-20 flex-col md:flex-row items-center md:items-start text-center md:text-start">
     <div>
       <div class="mb-12">
         <h3 class="mb-5 text-xl">
@@ -11,9 +11,6 @@
           intelligence émotionnelle. Lorsqu’elle est canalisée, elle donne accès
           à un beau potentiel.
         </p>
-      </div>
-      <div class="mb-12">
-        <h3 class="mb-5 text-xl">Accompagnement des enfants</h3>
         <p class="pr-5">
           Apprendre à gérer les émotions est un atout précieux à acquérir dès
           l’enfance afin de développer la confiance en soi. J’enseigne aux
@@ -25,6 +22,12 @@
         <p class="pr-5">
           Je forme les parents désireux de partager un moment privilégié avec
           leur bébé au massage traditionnel Shantala
+        </p>
+      </div>
+      <div class="mb-12">
+        <h3 class="mb-5 text-xl">Soins énergétiques Reiki traditionnels</h3>
+        <p class="pr-5">
+          Pour les adultes et les enfants
         </p>
       </div>
     </div>
