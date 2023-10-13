@@ -70,4 +70,17 @@ p, li {
   html {
     scroll-behavior: smooth;
   }
+
+.link {
+    color: #8C4D3E;
+    border-bottom: #8C4D3E solid 1px;
+}
+.link:visited {
+    color: #B36B2D;
+    border-bottom: #B36B2D solid 1px;
+}
+
+.link:hover {
+    border-bottom: none;
+}
 </style>

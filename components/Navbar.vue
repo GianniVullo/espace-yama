@@ -6,7 +6,7 @@
       <li class="mr-5 last:mr-0 hover:scale-105 duration-500" v-for="(link, idx) in leftMenu" :key="idx">
         <NuxtLink
           :class="{ 'text-primary-800': link.isVisible }"
-          class="text-primary-600 duration-500"
+          class="text-primary-600 duration-500 border-b-0"
           :to="link.href"
           >{{ link.titre }}</NuxtLink
         >
@@ -14,7 +14,7 @@
     </ul>
     <NuxtLink
       to="/"
-      class="flex w-10/12 flex-col items-center justify-center md:w-1/3">
+      class="flex w-10/12 flex-col items-center justify-center md:w-1/3 border-b-0">
       <div class="flex items-start">
         <span
           style="font-family: 'Brush'"
@@ -39,7 +39,7 @@
       <li class="mr-5 last:mr-0 hover:scale-105 duration-500" v-for="(link, idx) in rightMenu" :key="idx">
         <NuxtLink
           :class="{ 'text-primary-800': link.isVisible }"
-          class="text-primary-600 hover:scale-105 duration-500"
+          class="text-primary-600 hover:scale-105 duration-500 border-b-0"
           :to="link.href"
           >{{ link.titre }}</NuxtLink
         >
@@ -90,6 +90,7 @@
         :key="idx">
         <NuxtLink
           :class="{ 'font-bold text-primary-900': link.isVisible }"
+          class="border-b-0"
           :to="link.href"
           >{{ link.titre }}</NuxtLink
         >
@@ -101,6 +102,7 @@
         :key="idx">
         <NuxtLink
           :class="{ 'font-bold text-primary-900': link.isVisible }"
+          class="border-b-0"
           :to="link.href"
           >{{ link.titre }}</NuxtLink
         >
