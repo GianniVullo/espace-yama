@@ -13,7 +13,7 @@
           </svg>
           <p class="md:hidden md:group-hover:block ml-2 md:ml-0">Appeler</p>
         </a>
-        <button class="bg-red-200 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
+        <a href="https://www.google.com/maps/place/Rue+de+Robermont+130,+4020+Li%C3%A8ge/@50.637489,5.5978995,17.73z/" class="bg-red-200 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
               class=" h-6"
               viewBox="0 0 67 90"
@@ -30,7 +30,7 @@
                 class="fill-primary-500" />
             </svg>
           <p class="md:hidden md:group-hover:block ml-3 md:ml-1">Adresse</p>
-        </button>
+        </a>
     </aside>
 </template>
 
