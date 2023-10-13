@@ -8,7 +8,7 @@
 </p>
 <p>Le Reiki permet une <span style="font-family: 'KarlaBold';">harmonisation ainsi qu’un équilibrage énergétique de tout notre être.</span></p>
 <p>Il va notamment aider notre corps à :</p>
-<div class="flex justify-center w-full">
+<div class="flex justify-center md:justify-start w-full mt-2">
     <ul class="list-disc text-start flex flex-col ">
         <li>Renforcer notre immunité</li>
         <li>Avoir un sommeil réparateur</li>
@@ -19,8 +19,8 @@
     Cette énergie agit sur notre corps physique mais aussi au niveau psychique et émotionnel. Les évènements du
     quotidien peuvent provoquer des blocages au niveau de notre énergie. De ce fait, elle ne circule plus assez ou trop
     à certains endroits  de notre corps, ce qui peut engendrer de la fatigue, une maladie, des variations d’humeur...
-    Le Reiki s’adapte naturellement aux besoins spécifiques de la personne Par conséquent, il n’y a pas de notion de
-    “trop” ou “trop peu”
+    Le Reiki s’adapte naturellement aux besoins spécifiques de la personne, par conséquent, il n’y a pas de notion de
+    “trop” ou “trop peu”.
 </p>
 <p>Il ne dispense en aucun cas d’une consultation médicale et/ou psychologique, ni d’un traitement.</p>
 <p>Cette technique thérapeutique ne possède pas de pouvoir “magique”</p>

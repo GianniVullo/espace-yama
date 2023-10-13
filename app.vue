@@ -53,6 +53,10 @@ useSchemaOrg([
     src: url('/fonts/Karla-Regular.woff2') format('woff2');
 }
 @font-face {
+    font-family: 'KarlaMedium';
+    src: url('/fonts/Karla-Medium.woff2') format('woff2');
+}
+@font-face {
     font-family: 'Brush';
     src: url('/fonts/aAnomanObong.woff2') format('woff2');
 }
