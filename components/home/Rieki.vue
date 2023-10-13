@@ -24,7 +24,7 @@
 <p>Cette technique thérapeutique ne possède pas de pouvoir “magique”</p>
 <p>Il est indispensable pour la personne qui la reçoit d’être responsable de son évolution</p>
 <p>Le Reiki n’a pas d’orientation religieuse</p>
-<p>Si vous souhaitez en savoir d’avantage, je vous invite à consulter le site de Nita MOCANU : Reiki forum</p>
+<p>Si vous souhaitez en savoir d’avantage, je vous invite à consulter le site de Nita MOCANU : <a href="https://www.reikiforum.com/">Reiki forum</a></p>
 <img src="/illustration-reiki.png" alt="" class="mt-5">
     </section>
 </template>

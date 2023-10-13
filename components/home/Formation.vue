@@ -13,7 +13,7 @@
         Initiation Reiki Usui 2ème et 3ème degré - Muriel DUPONT
       </p>
       <p class="mb-4">Initiation à la Maîtrise Reiki Usui - Muriel DUPONT</p>
-      <p class="mb-4">Formation massage bébé "Shantala" - Isabelle Virzi</p>
+      <p class="mb-4">Formation massage bébé "Shantala" - Isabelle VIRZI</p>
       <p class="mb-4">Initiation au pendule - Gigliola GALASSO</p>
     </div>
     <img class="w-80 rounded-md md:rounded-r-none" src="/soin-main.png" alt="" />
