@@ -1,7 +1,7 @@
 <template>
   <section
     id="formations"
-    class="flex scroll-m-20 flex-col justify-between md:flex-row items-center md:items-start">
+    class="flex scroll-m-20 flex-col justify-between md:flex-row items-center md:items-start text-center md:text-start">
     <div>
       <h3 class="mb-5 text-xl">Mes Formations</h3>
       <p class="mb-4">Diplôme de puéricultrice</p>

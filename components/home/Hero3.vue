@@ -11,7 +11,7 @@
           <h3 class="mt-2 text-xl sm:text-2xl">harmonisez et équilibrez vos énergies,</h3>
           <h3 class="mt-2 text-xl sm:text-2xl">allez vers le meilleur de qui vous êtes.</h3>
           <p class="mt-7">Espace dédié aux adultes et aux enfants,</p>
-          <NuxtLink to="#services" class="mt-5 text-white py-2 px-3 border border-red-500 hover:scale-110 duration-500 cursor-pointer shadow-md hover:shadow-xl">Découvrez mes services</NuxtLink>
+          <NuxtLink to="#services" class="mt-5 rounded text-white py-2 px-3 border border-red-500 hover:scale-110 duration-500 cursor-pointer shadow-md hover:shadow-xl">Découvrez mes services</NuxtLink>
         </div>
       </div>
     </div>

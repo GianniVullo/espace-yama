@@ -1,20 +1,22 @@
 <template>
-    <section>
+    <section class="text-center md:text-start">
         <h3 class="text-xl mb-5">LE REIKI</h3>
 <p>En Japonais, Rei-Ki signifie “énergie vitale universelle“.</p>
 <p>
     Mikao Usui ( 1865-1926) a développé cette technique thérapeutique de manière à ce que cette énergie puisse être
-    utilisée par auto-traitement mais également par traitement pour une autre personne
+    utilisée par auto-traitement mais également par traitement pour une autre personne.
 </p>
-<p>Le Reiki permet une <span style="font-family: 'KarlaBold';">harmonisation ainsi qu’un équilibrage énergétique de tout notre être</span></p>
+<p>Le Reiki permet une <span style="font-family: 'KarlaBold';">harmonisation ainsi qu’un équilibrage énergétique de tout notre être.</span></p>
 <p>Il va notamment aider notre corps à :</p>
-<ul>
-    <li>Renforcer notre immunité</li>
-    <li>Avoir un sommeil réparateur</li>
-    <li>Soulager des douleurs...</li>
-</ul>
+<div class="flex justify-center w-full">
+    <ul class="list-disc text-start flex flex-col ">
+        <li>Renforcer notre immunité</li>
+        <li>Avoir un sommeil réparateur</li>
+        <li>Soulager des douleurs...</li>
+    </ul>
+</div>
 <p>
-    Cette énergie agit sur notre corps physique mais aussi au niveau psychoque et émotionnel. Les évènements du
+    Cette énergie agit sur notre corps physique mais aussi au niveau psychique et émotionnel. Les évènements du
     quotidien peuvent provoquer des blocages au niveau de notre énergie. De ce fait, elle ne circule plus assez ou trop
     à certains endroits  de notre corps, ce qui peut engendrer de la fatigue, une maladie, des variations d’humeur...
     Le Reiki s’adapte naturellement aux besoins spécifiques de la personne Par conséquent, il n’y a pas de notion de
@@ -36,5 +38,8 @@
 <style scoped>
 h3 {
   font-family: 'KarlaBold';
+}
+p {
+    margin-top: 8px;
 }
 </style>

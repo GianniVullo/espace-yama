@@ -1,5 +1,5 @@
 <template>
-  <section id="objectifs" class="flex scroll-m-20 items-center md:items-start">
+  <section id="objectifs" class="flex scroll-m-20 items-center md:items-start text-center md:text-start">
     <div class="mb-12">
       <h3 class="mb-5 text-xl">Objectifs de l’initiation aux enfants</h3>
       <p class="mb-5 pr-5">
@@ -14,7 +14,7 @@
       <div class="flex flex-col md:flex-row items-center md:items-start">
         <img src="/enfant-allongé.png" alt="" class="w-96 rounded-md md:rounded-l-none" />
         <div class="ml-3 flex flex-col justify-between">
-          <ul class="ml-5 list-disc my-3 md:my-0">
+          <ul class="ml-5 list-disc my-3 md:my-0 text-start">
             <li class="mb-5">Revenir au calme après de fortes émotions</li>
             <li class="mb-5">Avoir un sentiment de sécurité</li>
             <li>Gérer l’anxiété, la pression scolaire</li>

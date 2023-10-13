@@ -1,7 +1,7 @@
 <template>
-    <section id="tarifs" class="scroll-m-20">
+    <section id="tarifs" class="scroll-m-20 text-center md:text-start">
         <h3 class="mb-5 text-xl">Les Consultations</h3>
-        <ul class="list-disc mb-5 ml-5">
+        <ul class="list-disc mb-5 ml-5 text-start">
             <li class="mb-5 text-xl">Séance adulte ( max. 1h30 ) - <span style="font-family: 'KarlaBold';">75</span><span class="text-xs">€</span></li>
             <li class="mb-5 text-xl">Séance enfant - <span style="font-family: 'KarlaBold';">50</span><span class="text-xs">€</span></li>
             <li class="mb-5 text-xl">Massage bébé Shantala - <span style="font-family: 'KarlaBold';">40</span><span class="text-xs">€</span></li>
