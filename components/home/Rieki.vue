@@ -43,7 +43,7 @@
     <p>Le Reiki n’a pas d’orientation religieuse</p>
     <p>
       Si vous souhaitez en savoir d’avantage, je vous invite à consulter le site
-      de Nita MOCANU : <a class="link" href="https://www.reikiforum.com/">Reiki forum</a>
+      de Nita MOCANU : <a target="_blank" class="link" href="https://www.reikiforum.com/">Reiki forum</a>
     </p>
     <img src="/illustration-reiki.png" alt="" class="mt-5" />
   </section>

@@ -13,7 +13,7 @@
           </svg>
           <p class="md:hidden md:group-hover:block ml-2 md:ml-0">Appeler</p>
         </a>
-        <a href="https://www.google.com/maps/place/Rue+de+Robermont+130,+4020+Li%C3%A8ge/@50.637489,5.5978995,17.73z/" class="bg-red-200 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
+        <a target="_blank" href="https://www.google.com/maps/place/Espace+Yama/@50.6377011,5.5965322,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0f16eb5fe07f5:0xf20d88839bef604d!8m2!3d50.6376977!4d5.5991071!16s%2Fg%2F11vkghn5wh?entry=ttu" class="bg-red-200 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
               class=" h-6"
               viewBox="0 0 67 90"

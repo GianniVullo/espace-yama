@@ -35,7 +35,7 @@
     <!-- FORM CONTACT -->
     <!-- <HomeMailComponent /> -->
     <!-- GOOGLE MAP -->
-    <HomeMapsComponent class="mt-12" />
+    <HomeMapsComponent />
   </main>
 </template>
 

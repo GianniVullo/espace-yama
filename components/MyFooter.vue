@@ -2,8 +2,8 @@
   <footer
     class="flex flex-col items-center justify-center bg-gradient-to-b from-gray-950 to-gray-800 p-6 text-white">
     <h1 class="text-xl mb-8" style="font-family: 'KarlaBold';">Me contacter</h1>
-    <div class="flex w-full flex-col justify-around md:flex-row">
-      <section class="w-1/3 flex flex-col items-center justify-between">
+    <div class="flex w-full flex-col items-center md:justify-around md:flex-row">
+      <section class="md:w-1/3 flex flex-col items-center justify-between">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
@@ -17,8 +17,8 @@
         <div class="my-5 w-8 border border-gray-400"></div>
         <p>0472 61 31 50</p>
       </section>
-      <div class="my-5 border border-gray-600 md:my-0"></div>
-      <section class="w-1/3 flex flex-col items-center justify-between">
+      <div class="my-5 md:h-20 w-full md:w-0 border border-gray-600 md:my-0"></div>
+      <section class="md:w-1/3 flex flex-col items-center justify-between">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           x="0px"
@@ -45,8 +45,8 @@
         <div class="my-5 w-8 border border-gray-400"></div>
         Facebook de espace yama
       </section>
-      <div class="my-5 border border-gray-600 md:my-0"></div>
-      <section class="w-1/3 flex flex-col items-center justify-between pb-16 md:pb-0">
+      <div class="my-5 md:h-20 w-full md:w-0 border border-gray-600 md:my-0"></div>
+      <section class="md:w-1/3 flex flex-col items-center justify-between pb-16 md:pb-0">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
