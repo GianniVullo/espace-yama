@@ -25,19 +25,6 @@ useSchemaOrg([
             latitude: 50.6376977,
             longitude: 5.5965322
         },     
-        openingHoursSpecification: [
-            //! à changer absolumunent, ceci est à titre d'exemple
-            {
-                dayOfWeek: 'Saturday',
-                opens: '09:30',
-                closes: '13:30',
-            },
-            {
-                dayOfWeek: ['Monday', 'Tuesday'],
-                opens: '10:30',
-                closes: '15:30',
-            },
-        ]
     }),
     defineWebSite({
         name: 'Espace Yama',

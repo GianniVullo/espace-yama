@@ -33,7 +33,7 @@
     <HomeSeparator />
 
     <!-- FORM CONTACT -->
-    <HomeMailComponent class="mt-12" />
+    <!-- <HomeMailComponent /> -->
     <!-- GOOGLE MAP -->
     <HomeMapsComponent class="mt-12" />
   </main>
@@ -41,9 +41,9 @@
 
 <script setup>
 definePageMeta({
-  title: 'Un titre que Google va trouver cool',
-  description: 'une description qui va plaire à Google',
-  image: '/logo.png',
+  title: 'Praticien Reiki sur Liège - Soins énergétiques, massage Shantala et Reiki enfant',
+  description: 'Espace bien-être dédié aux adultes et aux enfants. Je pratique le Reiki (soins énergétiques) et le massage bébé Shantala.',
+  image: '/Logo.png',
 })
 useSchemaOrg([
   defineWebPage(
