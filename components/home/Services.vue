@@ -14,20 +14,20 @@
         <p class="pr-5">
           Apprendre à gérer les émotions est un atout précieux à acquérir dès
           l’enfance afin de développer la confiance en soi. J’enseigne aux
-          enfants ( à partir de 7 ans ) le Reiki Usui 1er degré.
+          enfants <span class="whitespace-nowrap">( à</span> partir de 7 <span class="whitespace-nowrap">ans )</span> le Reiki Usui 1er degré.
         </p>
       </div>
       <div class="mb-12">
         <h3 class="mb-5 text-xl">Accompagnement des parents</h3>
         <p class="pr-5">
           Je forme les parents désireux de partager un moment privilégié avec
-          leur bébé au massage traditionnel Shantala
+          leur bébé au massage traditionnel Shantala.
         </p>
       </div>
       <div class="mb-12">
         <h3 class="mb-5 text-xl">Soins énergétiques Reiki traditionnels</h3>
         <p class="pr-5">
-          Pour les adultes et les enfants
+          Pour les adultes et les enfants en séances individuelles.
         </p>
       </div>
     </div>

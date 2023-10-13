@@ -1,6 +1,6 @@
 <template>
     <aside class="fixed w-full md:w-auto bottom-0 top-auto md:bottom-auto md:left-0 md:top-[40vh] z-[9999] md:flex-col flex md:justify-end md:items-start drop-shadow-xl" style="background-color: transparent;">
-        <button class="bg-secondary-400 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
+        <a href="tel:0472 61 31 50" class="bg-secondary-400 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -12,7 +12,7 @@
               clip-rule="evenodd" />
           </svg>
           <p class="md:hidden md:group-hover:block ml-2 md:ml-0">Appeler</p>
-        </button>
+        </a>
         <button class="bg-red-200 justify-center px-1 py-3 border-t border-white md:border-none md:rounded-r-xl w-1/2 md:w-8 group md:hover:w-24 duration-300 flex">
             <svg
               class=" h-6"

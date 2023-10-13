@@ -3,9 +3,9 @@
     <h3 class="mb-5 text-xl text-center">Me contacter</h3>
     <div class="flex flex-col md:flex-row items-center">
       <p>Vous pourrez me contacter par mail à</p>
-      <button class="rounded bg-red-500 px-3 py-1 mt-1 md:mt-0 md:ml-1 text-white">
+      <a href="mailto:espaceyama@gmail.com" class="rounded bg-red-500 px-3 py-1 mt-1 md:mt-0 md:ml-1 text-white">
         espaceyama@gmail.com
-      </button>
+      </a>
     </div>
     <!-- <p>ou avec le formulaire ci-après</p>
     <form action="" class="flex flex-col p-1">
