@@ -13,8 +13,7 @@
         </p>
         <p class="pr-5">
           Apprendre à gérer les émotions est un atout précieux à acquérir dès
-          l’enfance afin de développer la confiance en soi. J’enseigne aux
-          enfants <span class="whitespace-nowrap">( à</span> partir de 7 <span class="whitespace-nowrap">ans )</span> le Reiki Usui 1er degré.
+          l’enfance afin de développer la confiance en soi.
         </p>
       </div>
       <div class="mb-12">
@@ -25,9 +24,10 @@
         </p>
       </div>
       <div class="mb-12">
-        <h3 class="mb-5 text-xl">Soins énergétiques Reiki traditionnels</h3>
+        <h3 class="mb-5 text-xl">Soins énergétiques Reiki Usui</h3>
         <p class="pr-5">
-          Pour les adultes et les enfants en séances individuelles.
+          Pour les adultes et les enfants en séances individuelles. <br>
+          J’enseigne aux enfants <span class="whitespace-nowrap">( à</span> partir de 7 <span class="whitespace-nowrap">ans )</span> le Reiki Usui 1er degré.
         </p>
       </div>
     </div>

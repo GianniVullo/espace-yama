@@ -12,7 +12,7 @@
         tels que :
       </p>
       <div class="flex flex-col md:flex-row items-center md:items-start">
-        <img src="/enfant-allongé.png" alt="" class="w-96 rounded-md md:rounded-l-none" />
+        <img src="/enfant-allonge.png" alt="" class="w-96 rounded-md md:rounded-l-none" />
         <div class="ml-3 flex flex-col justify-between">
           <ul class="ml-5 list-disc my-3 md:my-0 text-start">
             <li class="mb-5">Revenir au calme après de fortes émotions</li>
@@ -21,7 +21,7 @@
           </ul>
           <p>
             De plus, cette initiation va lui donner la possibilité de découvrir
-            un type autre d’enseignement
+            un autre type d’enseignement
           </p>
         </div>
       </div>

@@ -10,7 +10,7 @@
       <p class="mb-4">
         J’ai commencé ma carrière professionnelle en Suisse. De retour en
         Belgique, j’ai travaillé dans l’enseignement et je travaille dans un
-        hôpital psychiatrique depuis plus de 20ans.
+        hôpital psychiatrique depuis plus de 20 ans.
       </p>
       <p class="mb-4">
         Il y a une dizaine d’année, j’ai ressenti le besoin d’un “renouveau”
@@ -23,7 +23,7 @@
       </p>
       <p class="mb-4">
         Mon objectif est de transmettre, avec bienveillance, ce que j’ai reçu
-        dans un espace paisible et chaleureux C’est pour ces raisons que j’ai
+        dans un espace paisible et chaleureux. C’est pour ces raisons que j’ai
         créé l’espace bien-être YAMA.
       </p>
     </div>

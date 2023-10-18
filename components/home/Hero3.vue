@@ -5,7 +5,7 @@
         class="relative bg-gradient-to-r from-black to-transparent px-6 md:px-0 z-20 w-full sm:w-4/5 lg:w-3/5 xl:w-1/2 flex h-full flex-col text-white items-center justify-center sm:text-start">
         <div class="flex flex-col items-start">
           <h1 class="text-3xl sm:text-4xl" style="font-family: 'Karla'">
-            Bienvenue à l'Espace Yama
+            Bienvenue à l'Espace bien-être Yama
           </h1>
           <h3 class="mt-7 text-xl sm:text-2xl">Prenez du temps pour vous,</h3>
           <h3 class="mt-2 text-xl sm:text-2xl">harmonisez et équilibrez vos énergies,</h3>
