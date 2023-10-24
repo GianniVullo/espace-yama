@@ -86,7 +86,7 @@
       <li
         class="my-2 mr-5 opacity-100 duration-300 last:mr-0"
         :class="{ '!opacity-0': !drawer }"
-        v-for="(link, idx) in rightMenu"
+        v-for="(link, idx) in leftMenu"
         :key="idx">
         <NuxtLink
           :class="{ 'font-bold text-primary-900': link.isVisible }"
@@ -98,7 +98,7 @@
       <li
         class="my-2 mr-5 opacity-100 duration-300 last:mr-0"
         :class="{ '!opacity-0': !drawer }"
-        v-for="(link, idx) in leftMenu"
+        v-for="(link, idx) in rightMenu"
         :key="idx">
         <NuxtLink
           :class="{ 'font-bold text-primary-900': link.isVisible }"
@@ -117,11 +117,7 @@ const formations = ref(null)
 const services = ref(null)
 const shantala = ref(null)
 const tarifs = ref(null)
-let parcoursVisible = false
-let formationsVisible = false
-let servicesVisible = false
-let shantalaVisible = false
-let tarifsVisible = false
+const reiki = ref(null)
 
 const leftMenu = ref([
   {
@@ -161,6 +157,13 @@ const rightMenu = ref([
     subMenu: null,
     isVisible: false
   },
+  {
+    titre: 'Reiki',
+    isDropdown: false,
+    href: '/#reiki',
+    subMenu: null,
+    isVisible: false
+  },
 ])
 const drawer = ref(false)
 const toggleDrawer = useToggle(drawer)
@@ -172,11 +175,13 @@ onMounted(() => {
   shantala.value = document.getElementById("shantala")
   services.value = document.getElementById("services")
   tarifs.value = document.getElementById("tarifs")
+  reiki.value = document.getElementById("reiki")
   leftMenu.value[0].isVisible = useElementVisibility(parcours)
   leftMenu.value[1].isVisible = useElementVisibility(formations)
   leftMenu.value[2].isVisible = useElementVisibility(shantala)
   rightMenu.value[0].isVisible = useElementVisibility(services)
   rightMenu.value[1].isVisible = useElementVisibility(tarifs)
+  rightMenu.value[2].isVisible = useElementVisibility(reiki)
 })
 </script>
 

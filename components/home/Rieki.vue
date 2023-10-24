@@ -1,5 +1,5 @@
 <template>
-  <section class="text-center md:text-start flex flex-col">
+  <section id="reiki" class="scroll-m-20 text-center md:text-start flex flex-col">
     <h3 class="mb-5 text-xl">LE REIKI</h3>
     <p>En Japonais, Rei-Ki signifie “énergie vitale universelle“.</p>
     <p>

@@ -15,7 +15,7 @@
             clip-rule="evenodd" />
         </svg>
         <div class="my-5 w-8 border border-gray-400"></div>
-        <p>0472 61 31 50</p>
+        <a href="tel:0472613150">0472 61 31 50</a>
       </section>
       <div class="my-5 md:h-20 w-full md:w-0 border border-gray-600 md:my-0"></div>
       <section class="md:w-1/3 flex flex-col items-center justify-between">
@@ -60,7 +60,7 @@
             d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
         </svg>
         <div class="my-5 w-8 border border-gray-400"></div>
-        espaceyama@gmail.com
+        <a href="mailto:espaceyama@gmail.com">espaceyama@gmail.com</a>
       </section>
     </div>
   </footer>
